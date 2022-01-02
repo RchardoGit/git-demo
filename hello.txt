@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 hello atguigu hello git 22222
 hello atguigu hello git
 hello atguigu hello git
@@ -9,3 +10,6 @@ hello atguigu hello git hot-fix test
 11111111111111111111111
 辟邪剑谱果然厉害
 东方不败天下第一
+=======
+hello world
+>>>>>>> 060500e (first commit)
